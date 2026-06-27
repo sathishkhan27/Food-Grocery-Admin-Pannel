@@ -1,0 +1,6 @@
+{
+  "name": "PingZo",
+  "description": "A realtime food and grocery delivery application with live order tracking for customers, drivers, and fleet managers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

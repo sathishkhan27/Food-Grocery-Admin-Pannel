@@ -1,0 +1,17 @@
+{
+  "name": "PingZo - 10-Minute Delivery",
+  "short_name": "PingZo",
+  "description": "Ultra-fast grocery and food delivery in 10 minutes.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3595/3595455.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
